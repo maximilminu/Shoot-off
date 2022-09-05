@@ -1,0 +1,70 @@
+.navbar{
+    display: flex;
+    align-items: center;
+    height:100px;
+    color: black;
+    font-size: 20px;
+    flex-wrap:wrap;
+    z-index: 1;
+  
+}
+
+.shop_botton{
+    color: black;
+    font-size: 18px;
+    margin: 0px 5px;
+    padding: 2px;
+}
+.navbar-toggler{
+    display: flex;
+    align-items: center;
+    border: none;
+}
+
+.botton-navbar{
+    width: 90px;
+    background: none;
+    border: none;
+    margin: 0px 20px;
+    padding: 10px;
+}
+.input-group{
+    display: flex;
+    width: 80%;
+}
+.dropdown-icon{
+    margin-top: 10px
+}
+.navbar-icons{
+    display: flex;
+
+}
+.navbar-icons-2{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 50%;
+
+}
+.nav-style{
+    margin-bottom: 20px;
+}
+.icons{
+    display: flex;
+    align-items: center;
+}
+.botton-login{
+    background: none;
+    border: none;
+    padding: 10px;
+    width: 90px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.botton-descrition{
+font-size: 15px;
+}
+.navbar-expand-lg .navbar-nav .dropdown-menu a{
+    text-decoration: none;
+}

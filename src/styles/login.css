@@ -1,0 +1,27 @@
+.login{
+    border-radius:10px;
+    /* padding:5%; */
+    width:70%;
+    flex-direction: column;
+    display: flex;
+    margin: 10% auto;
+}
+.row{
+    justify-content: space-between;
+}
+.btn.btn-sumit{
+    margin-top: 5%;
+}
+.container.inner-page{
+margin-top:10%;
+}
+.mb-3{
+    display: flex;
+    justify-content: space-between;
+    align-items: stretch;
+    align-content: stretch;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+    

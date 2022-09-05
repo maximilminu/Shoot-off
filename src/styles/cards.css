@@ -1,0 +1,12 @@
+.cards{
+    max-height:350px;
+    max-width: 200px;
+}
+ 
+.pagination {
+    justify-content: center;
+}
+
+.btn-pagination {
+    margin: 5px;
+}

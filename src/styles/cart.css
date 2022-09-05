@@ -1,0 +1,59 @@
+.img-cartEmpty{
+    margin-top: 2%;
+   max-width: 10%;
+}
+.img-fully{
+
+   height: 100px;
+   width: 100px;
+    min-width: 10%;
+}
+.card-text{
+    font-size:x-large;
+}
+.card-empty{
+    margin-top: 15%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.remove-btn{
+    background: none;
+    border: none;
+}
+.btn.btn-cart{
+    margin-top: 30%;
+}
+.descricion{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    display: flex;
+    flex-direction: column;
+}
+.item{
+    border: none;
+}
+.card-deck{
+    margin: 5% auto;
+    display: flex;
+    flex-direction: row;
+    max-width: 60%;
+}
+.card-sumary{
+    margin: 2%;
+    border-left: none;
+    border-right:none ;
+    max-width: 85%;
+    padding: 10px;
+    background-color: ghostwhite;
+    align-items: center;
+    text-align: center;
+}
+.listgroup{
+    border: none;
+}
+
+.checkout{
+    margin-bottom: 0px;
+}
